@@ -56,8 +56,8 @@ drwxr-xr-x  umkm-inventory-pos       # Integrated inventory & point-of-sale syst
 
 ### `$ ./stats.sh`
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=367BF0&icon_color=367BF0&text_color=c9d1d9"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhifansa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=367BF0&icon_color=367BF0&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhifansa&layout=compact&hide_border=true&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9"/>
 </p>
 
 ### `$ ./connect.sh`
@@ -66,7 +66,7 @@ drwxr-xr-x  umkm-inventory-pos       # Integrated inventory & point-of-sale syst
     <img src="https://img.shields.io/badge/LinkedIn-Dhifansa_Pradibtya_Rafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Dhifansa-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dhifansapradibya?igsh=b3M3bW1vNGtvM284&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-dhifansapradibya-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
