@@ -61,13 +61,21 @@ drwxr-xr-x  umkm-inventory-pos       # Integrated inventory & point-of-sale syst
 </p>
 
 ### `$ ./connect.sh`
-
 <p>
   <a href="https://www.linkedin.com/in/dhifansa-pradibtya-rafi-a32531322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhifansa_Pradibtya_Rafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/dhifansapradibya?igsh=b3M3bW1vNGtvM284&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-dhifansapradibya-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@sadapbij1?_r=1&_t=ZS-9BZRGiGVJFV" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-@sadapbij1-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://dhifansa-pradibtya-rafi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-dhifansa--pradibtya--rafi-367BF0?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
