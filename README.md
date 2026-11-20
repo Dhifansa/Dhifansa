@@ -61,6 +61,7 @@ drwxr-xr-x  umkm-inventory-pos       # Integrated inventory & point-of-sale syst
 </p>
 
 ### `$ ./connect.sh`
+
 <p>
   <a href="https://www.linkedin.com/in/dhifansa-pradibtya-rafi-a32531322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhifansa_Pradibtya_Rafi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
